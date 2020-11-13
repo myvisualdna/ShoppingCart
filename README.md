@@ -2,7 +2,7 @@
 
 Shopping cart inspired on IKEA catalog using React & Redux
 
-## getting started
+## Getting started
 
 install dependencies and start local dev server
 
@@ -11,15 +11,15 @@ npm install
 npm start
 ```
 
-## details
+## Details
 
 Enjoy adding and removing items from shopping cart!
 
-## TODO
+## Preview
 
-- add reducers and selectors unit tests
+![Screenshot](screenshot.png)
 
 ---
 
-author: Kris Urbas [Andres Nieves](https://github.com/myvisualdna)  
+author: [Andres Nieves](https://github.com/myvisualdna)  
 licence: MIT
